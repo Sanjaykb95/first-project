@@ -1,4 +1,5 @@
 # first-project
 this is my first git repository.
 <br>
-author - sanjay bhatt
+author - sanjay (kumar) bhatt
+
